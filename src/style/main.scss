@@ -1,0 +1,13 @@
+/* Подключаем все части кода в один  */
+/* Базовые стили */
+@import "../../bower_components/normalize.css/normalize.css";  
+@import "partials/base/_settings.scss"; /* Переменные */
+@import "partials/base/_base.scss"; /* Повторяющиеся елементы на странице (страницах) */
+@import "partials/base/_fonts.scss"; /* Шрифты */
+
+/* Header */
+
+/* Main */
+
+/* Footer */
+

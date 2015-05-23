@@ -1,0 +1,19 @@
+{
+  "name": "gulp-start",
+  "version": "0.0.1",
+  "authors": [
+    "Denis Golubtsov <d.s.golubtsov@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "description": "Gulp-start",
+  "dependencies": {
+    "normalize.css": "*"
+  }
+}
