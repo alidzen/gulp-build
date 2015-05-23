@@ -19,7 +19,7 @@
 
 ### Установка.
 1. Клонируем репозиторий:  
->git clonehttps://github.com/alidzen/gulp-build.git
+>git clone https://github.com/alidzen/gulp-build.git
 
 2. Устанавливаем все компоненты:  
 >npm install --save-dev gulp-autoprefixer --save-dev gulp-minify-css browser-sync gulp --save-dev --save-dev gulp-imagemin --save imagemin-pngquant --save-dev gulp-uglify gulp-sass --save-dev gulp-sourcemaps --save-dev gulp-rigger gulp-watch rimraf 
