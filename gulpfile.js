@@ -11,7 +11,6 @@ var gulp = require('gulp'),
     imagemin = require('gulp-imagemin'),
     pngquant = require('imagemin-pngquant'),
     rimraf = require('rimraf'),
-    var spritesmith = require('gulp.spritesmith'),
     browserSync = require("browser-sync"),
     reload = browserSync.reload;
 
